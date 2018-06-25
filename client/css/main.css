@@ -1,0 +1,55 @@
+@media(min-width:1350px) {
+    .container {
+        width: 1300px;
+    }
+}
+
+
+.public_fixedDataTableCell_cellContent {
+    font-size: 13px;
+    white-space: nowrap;
+}
+
+.cell_fused {
+    color: #FF4136;
+}
+
+.cell_passed {
+    color: #2ECC40;
+}
+
+.ContentPage {
+    margin: 0 auto;
+    width: 1300px;
+}
+
+.CodeMirror {
+    height: 100%;
+}
+
+.RuleEditor {
+    border: 1px solid lightgrey;
+    border-width: 0 1px 1px;
+    height: 700px;
+}
+
+.ReactCodeMirror {
+    height: 100%;
+}
+
+.RuleEditor-ButtonBar {
+    text-align: right;
+    margin: 10px 0;
+}
+
+.Tab-ButtonBar {
+    padding: 7px;
+    border: 1px solid lightgrey;
+    border-width: 0 1px;
+    background-color: white;
+}
+
+.Tab-Filter {
+    display: inline-block;
+    margin-left: 30px;
+}
